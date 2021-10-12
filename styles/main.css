@@ -1,0 +1,9 @@
+/*Solo Importaciones*/
+
+@import "./reset.css";
+@import "./variables.css";
+@import "./components/main-components.css";
+
+body {
+  background-color: var(--background_color);
+}
